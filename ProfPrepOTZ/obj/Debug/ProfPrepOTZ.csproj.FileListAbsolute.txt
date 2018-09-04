@@ -1,0 +1,12 @@
+D:\Разработка ПО\ProfPrepOTZ\ProfPrepOTZ\obj\Debug\ProfPrepOTZ.csprojResolveAssemblyReference.cache
+D:\Разработка ПО\ProfPrepOTZ\ProfPrepOTZ\obj\Debug\ProfPrepOTZ.MainWind.resources
+D:\Разработка ПО\ProfPrepOTZ\ProfPrepOTZ\obj\Debug\ProfPrepOTZ.Properties.Resources.resources
+D:\Разработка ПО\ProfPrepOTZ\ProfPrepOTZ\obj\Debug\ProfPrepOTZ.csproj.GenerateResource.Cache
+D:\Разработка ПО\ProfPrepOTZ\ProfPrepOTZ\bin\Debug\Подготовка ОТЗ.exe.config
+D:\Разработка ПО\ProfPrepOTZ\ProfPrepOTZ\bin\Debug\Подготовка ОТЗ.exe
+D:\Разработка ПО\ProfPrepOTZ\ProfPrepOTZ\bin\Debug\Подготовка ОТЗ.pdb
+D:\Разработка ПО\ProfPrepOTZ\ProfPrepOTZ\obj\Debug\Подготовка ОТЗ.exe
+D:\Разработка ПО\ProfPrepOTZ\ProfPrepOTZ\obj\Debug\Подготовка ОТЗ.pdb
+D:\Разработка ПО\ProfPrepOTZ\ProfPrepOTZ\obj\Debug\Interop.ExcelPlugInShell.dll
+D:\Разработка ПО\ProfPrepOTZ\ProfPrepOTZ\obj\Debug\Interop.LCC11.dll
+D:\Разработка ПО\ProfPrepOTZ\ProfPrepOTZ\obj\Debug\ProfPrepOTZ.csproj.ResolveComReference.cache

@@ -1,0 +1,12 @@
+D:\Разработка ПО\ProfPrepOTZ\ProfPrepOTZ\bin\Release\Подготовка ОТЗ.exe.config
+D:\Разработка ПО\ProfPrepOTZ\ProfPrepOTZ\bin\Release\Подготовка ОТЗ.exe
+D:\Разработка ПО\ProfPrepOTZ\ProfPrepOTZ\bin\Release\Подготовка ОТЗ.pdb
+D:\Разработка ПО\ProfPrepOTZ\ProfPrepOTZ\obj\Release\ProfPrepOTZ.csprojResolveAssemblyReference.cache
+D:\Разработка ПО\ProfPrepOTZ\ProfPrepOTZ\obj\Release\Interop.ExcelPlugInShell.dll
+D:\Разработка ПО\ProfPrepOTZ\ProfPrepOTZ\obj\Release\Interop.LCC11.dll
+D:\Разработка ПО\ProfPrepOTZ\ProfPrepOTZ\obj\Release\ProfPrepOTZ.csproj.ResolveComReference.cache
+D:\Разработка ПО\ProfPrepOTZ\ProfPrepOTZ\obj\Release\ProfPrepOTZ.MainWind.resources
+D:\Разработка ПО\ProfPrepOTZ\ProfPrepOTZ\obj\Release\ProfPrepOTZ.Properties.Resources.resources
+D:\Разработка ПО\ProfPrepOTZ\ProfPrepOTZ\obj\Release\ProfPrepOTZ.csproj.GenerateResource.Cache
+D:\Разработка ПО\ProfPrepOTZ\ProfPrepOTZ\obj\Release\Подготовка ОТЗ.exe
+D:\Разработка ПО\ProfPrepOTZ\ProfPrepOTZ\obj\Release\Подготовка ОТЗ.pdb
